@@ -1,2 +1,2 @@
-# -Boostrap-leidypinzon
+# Boostrap-leidypinzon
 Actividad clase 8.
